@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>soure/vegetable_mouse.webp</file>
+        <file>soure/vegetable_mouse.png</file>
+        <file>soure/mouse.ico</file>
+    </qresource>
+</RCC>
